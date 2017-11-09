@@ -1,0 +1,13 @@
+body{
+    background-color:#9690e5;
+}
+h1{
+    color:ghostwhite;
+}
+#calculate{
+    background-color:red;
+    color:white;
+}
+label{
+    display: block
+}
