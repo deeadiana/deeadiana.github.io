@@ -46,6 +46,6 @@ function calculateCredits() {
     for (var i = 1; i <= numberOfBoxes; i++) {
         var inputElemValue = document.getElementById("input" + i).value;
         console.log(inputElemValue);
-        sumOfCredits parseInt(InputElemValue);
+        sumOfCredits += parseInt(InputElemValue);
     }
 }
